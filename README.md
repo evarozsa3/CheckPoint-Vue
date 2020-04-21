@@ -52,7 +52,7 @@ Once you have the appropriate functionality, add a theme the site in whatever wa
 - [ DONE ] Blogs on the `home page` are listed as title and author
 - [ DONE ] Clicking the link users are taken to a `blog page`
 - [ DONE ] Refreshing while on the `blog page` does not renavigate the user, and the blog still shows its contents
-- [ ] The `blog page` shows all comments for that blog
+- [ Done] The `blog page` shows all comments for that blog
 
 #### Functionality
 
